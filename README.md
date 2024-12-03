@@ -12,12 +12,22 @@ I'm a passionate software developer with expertise in MERN stack development, cl
 
 ## ✍️ Featured Blogs  
 
-### 1. **[Terraform and Kubernetes: Automating Deployments](#)**  
-Learn how to integrate Terraform with Kubernetes Helm to streamline application deployments. This blog covers the process step-by-step, making cloud infrastructure management easier.  
+### 1. **[Automating Application Deployment with Terraform and Kubernetes Helm: A Step-by-Step Guide](#)**  
+The blog outlines the integration of Terraform and Kubernetes Helm for automated application deployment. It explains how Terraform manages infrastructure as code, Kubernetes runs and scales containerized applications, and Helm simplifies deploying apps to Kubernetes through charts.
 
-### 2. **[The Art of GANs: Generating Abstract Art](#)**  
-Explore the world of Generative Adversarial Networks with a focus on StyleGANs. Discover how AI can create stunning abstract art pieces using the WikiArt dataset.  
+Key steps include setting up Terraform to connect with a Kubernetes cluster, configuring Helm as a provider, and deploying a sample NGINX server using Helm charts. The process concludes with running Terraform commands to provision resources and deploy the app. This automation reduces manual effort and errors, making it ideal for managing complex deployments efficiently.
 
+### 2. **[Continuous Integration and Continuous Deployment (CI/CD): A Beginner’s Guide](#)**  
+This blog explains the critical role of Continuous Integration (CI) and Continuous Deployment (CD) in DevOps, which enable faster and more reliable software delivery.
+
+CI involves frequent code integration, automated testing, and immediate feedback to catch errors early and improve collaboration.
+CD extends CI by automating code deployment to production, ensuring frequent, stable releases without human intervention.
+Benefits of CI/CD:
+Early error detection
+Faster development cycles
+Reduced human errors
+Improved user satisfaction
+CI/CD is vital for enhanced collaboration, scalability, and faster delivery in DevOps. Adopting CI/CD practices empowers teams to deliver high-quality software efficiently.
 ---
 
 💡 *Feel free to explore my repositories and connect with me for collaborations or discussions on cutting-edge technologies!*  
