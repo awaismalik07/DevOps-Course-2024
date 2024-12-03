@@ -1,0 +1,9 @@
+# What I've Learned 🚀  
+
+- **GitHub**: Mastered version control, branching, pull requests, and collaborative workflows for seamless project management.  
+- **Docker**: Built and managed lightweight, portable containers to package and deploy applications efficiently.  
+- **Kubernetes**: Learned to deploy, scale, and manage containerized applications, along with managing clusters and resources.  
+- **Service Mesh**: Explored Istio to enhance service-to-service communication, load balancing, and monitoring in microservices.  
+- **Terraform**: Automated cloud infrastructure provisioning using Infrastructure as Code, ensuring consistent and scalable deployments.  
+
+...and many more exciting technologies as part of my continuous learning journey!  
